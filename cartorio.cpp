@@ -158,7 +158,7 @@ int main()
 		
 		case 4:
 		printf("obrigado por utilizar o sitema!\n");
-		return 0;
+		return 0; //faz a função de "quebra" do sistema - quebrando laços ou funções
 		break;
 		
 		default:
